@@ -62,3 +62,8 @@ button:active
     background-color: orangered;
     grid-row: span 4;
 }
+
+.op-button
+{
+    background-color: rgb(211, 211, 211);
+}
