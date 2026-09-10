@@ -39,3 +39,9 @@ button
     cursor: pointer;
     transition: background-color 0.3s;
 }
+
+#keys
+{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
