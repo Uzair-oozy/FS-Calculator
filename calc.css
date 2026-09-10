@@ -45,3 +45,8 @@ button
     display: grid;
     grid-template-columns: repeat(4, 1fr);
 }
+
+button:hover
+{
+    background-color: hsl(0, 0%, 80%);
+}
