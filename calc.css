@@ -50,3 +50,8 @@ button:hover
 {
     background-color: hsl(0, 0%, 80%);
 }
+
+button:active
+{
+    background-color: hsl(0, 0%, 90%)
+}
