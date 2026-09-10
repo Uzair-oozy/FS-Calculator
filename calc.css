@@ -55,3 +55,10 @@ button:active
 {
     background-color: hsl(0, 0%, 90%)
 }
+
+#equals
+{
+    color: white;
+    background-color: orangered;
+    grid-row: span 4;
+}
