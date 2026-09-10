@@ -9,3 +9,11 @@ body
 
 }
 
+#Calculator
+{
+    font-family: Arial, sans-serif;
+    background-color: white;
+    border-radius: 5px;
+    overflow: hidden;
+    max-width: 500px;
+}
