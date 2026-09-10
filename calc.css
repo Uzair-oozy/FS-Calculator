@@ -30,12 +30,12 @@ body
     height: max-content;
 }
 
-button
+button 
 {
-    padding: 20px;
-    font-size: 18px;
-    border: 1px solid #e0e0e0;
     background-color: #f2f2f2;
+    border: 1px solid #e0e0e0;
+    font-size: 18px;
+    padding: 20px;
     cursor: pointer;
     transition: background-color 0.3s;
 }
